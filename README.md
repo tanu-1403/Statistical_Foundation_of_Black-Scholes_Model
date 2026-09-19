@@ -8,6 +8,8 @@ An **MSc Statistics seminar project** exploring the mathematical and statistical
 
 ### 🔍 What’s Covered
 
+<img width="1360" height="691" alt="image" src="https://github.com/user-attachments/assets/4d1628a6-9893-446f-81cb-bd7371d3768b" />
+
 * Brownian Motion & Geometric Brownian Motion
 * Itô’s Lemma
 * Black–Scholes PDE
